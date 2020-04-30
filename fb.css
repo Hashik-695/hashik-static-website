@@ -1,0 +1,297 @@
+body{
+    margin: 0;
+}
+.header
+{
+    width: 100%;
+    height: 82px;
+    background-color:#385898;
+
+}
+.logo{
+    width:50%;
+    padding-top: 30px;
+    float: left;
+    
+}    
+.content{
+    width: 50%;
+    float: right;
+    padding-top: 10px;
+
+}
+.logo-text
+{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 180px ;
+    
+}
+.login-text
+{
+    color: #fff;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 10px;
+
+}
+.sbn-btn
+{
+    background-color: #4267b2;
+    color: #fff;
+    margin-left: 10px;
+
+}
+.login2-text
+{
+     color: #9cb4d8;
+    font-weight: normal;
+    margin-left: 10px;
+    text-decoration: none;
+}
+.l1{
+    padding-left: 80px;
+}
+.l2
+{
+margin-left: 10px;
+}
+.middle
+{
+    width: 100%;
+    height: 600px;
+    background: linear-gradient(white, #D3D8E8);
+}
+.m1{
+    width: 50%;
+    padding-top: 0px;
+    float: left;
+}
+.m2{
+    width: 50%;
+    float: right;
+    padding-top: 10px;
+}
+.m1 p{
+    color: #0e385f;
+    font-size: 20px;
+    font-weight: bold;
+   
+    line-height: 29px;
+    margin-top: 40px;
+    width: 450px;
+    word-spacing: -1px;
+    padding-left: 170px;
+}
+.m1 img{
+    padding-left: 180px;
+    
+}
+.m3
+{
+    padding-left: 80px;
+}
+.m4{
+    
+    font-size: 36px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+}
+.m5{
+    background: #fff;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+    unicode-bidi: embed;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+
+}
+.t1
+{
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 10px;
+    margin-right: 5px;
+    padding-top: 10px;
+    font-size: 18px;
+    padding: 8px 10px;
+    
+    
+
+   
+}
+    
+
+.t2
+{
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    margin-top: 10px;
+    margin-right: 5px;
+    padding-top: 10px;
+    font-size: 18px;
+    padding: 8px 10px;
+    
+    
+}
+.t3
+{
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    width: 377px;
+    font-size: 18px;
+    padding: 8px 10px;
+    margin-top: 10px;
+    margin-right: 5px;
+    padding-left: 100px;
+    
+    
+}
+.t4
+{
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    width: 377px;
+    font-size: 18px;
+    padding: 8px 10px;
+    margin-top: 10px;
+    margin-right: 5px;
+    padding-left: 100px;
+    margin-bottom: 15px;
+    
+}
+.t5
+{
+    color: #90949c;
+    font-size: 16px;
+    font-weight: bold;
+   
+    margin-top: 20px;   
+    font-family: Helvetica, Arial, sans-serif;
+    
+    
+}
+.s1
+{
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+     
+}
+.t6
+{
+    
+    color: #90949c;
+    font-size: 16px;
+    font-weight: bold;
+   
+   
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+.s2{
+    color: #777;
+    font-size: 11px;
+    width: 316px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.s3
+{
+    background-color: rgb(32, 151, 32);
+    color: #fff;
+    padding: 10px 40px;
+    border: #000;
+    border-radius: 3px;
+}
+.s4{
+    color:rgb(66, 66, 209);
+    font-size: 11px;
+    width: 316px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-decoration: none;
+    cursor: pointer;   
+      
+
+}
+.footer{
+    width: 100%;
+    height: 150px;
+    margin-top: 50px;
+}
+
+
+
+
+li{
+    display: inline-block;
+    
+    margin-left: 10px;
+    text-decoration: underline;
+}
+.a1
+{
+    width: 100%;
+    height: 50px;
+}
+.a2
+{
+    color: #737373;
+  
+    width: 980px;
+    display: block;
+    margin-left: 20px;
+    padding-left: 20px;
+    position: relative;
+   
+}
+
+.a3
+{
+    width: 100%;
+    height: 50px;
+}
+{
+    padding-left: 40px;
+}
+.a4
+{
+    padding-left: 70px;
+}
+.u2
+{
+    padding-left: 50px;
+}
+.u1{
+    padding-left: 50px;
+    margin-bottom: 5px;
+}
+.b1
+{
+    float: right;
+    margin-right: 350px;
+}

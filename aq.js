@@ -1,0 +1,18 @@
+$(document).ready(function(){
+    $("#qwe").validate({
+        rules:{
+            fname:{
+                required:true,
+                minlength:4
+            },
+            sname:{
+                required:true,
+                minlength:4
+            },
+            email:{
+                required:true,
+                email:true
+            }
+        }
+    })
+})
